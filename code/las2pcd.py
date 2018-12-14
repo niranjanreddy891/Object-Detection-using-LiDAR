@@ -1,3 +1,6 @@
+# author: niranjanreddy891@gmail.com
+
+
 from laspy.file import File
 import numpy as np
 
