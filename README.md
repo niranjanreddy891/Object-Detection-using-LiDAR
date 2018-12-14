@@ -10,6 +10,12 @@ Libraries used:
     
     3. tensorflow
     
+    4. numpy
+    
+    5. scipy
+    
+    6. pcl
+    
 Output is shown below as a jpeg format (screenshot of the output LiDAR las file)
 
 
