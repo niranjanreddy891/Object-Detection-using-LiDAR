@@ -1,3 +1,6 @@
+# author: niranjanreddy891@gmail.com
+
+
 import numpy as np
 import random
 import scipy as sc
