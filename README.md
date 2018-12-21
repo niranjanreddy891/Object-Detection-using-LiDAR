@@ -25,4 +25,4 @@ Output is shown below as a jpeg format (screenshot of the output LiDAR las file)
 
 
 
-***In the next release, I want to show the name of the object like person, vehicle, trees and roads by Name.
+***In the next release, I want to show the name of the object like person, vehicle, trees and roads by Name. ***
