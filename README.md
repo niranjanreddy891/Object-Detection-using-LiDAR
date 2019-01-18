@@ -16,7 +16,7 @@ Libraries used:
     
     6. pcl
     
-Output is shown below as a jpeg format (screenshot of the output LiDAR las file)
+Output is shown below as a jpeg format (screenshot of the output LiDAR .las file)
 
 
 
