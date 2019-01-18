@@ -2,7 +2,7 @@
 
 This repo refers to object detection using LiDAR data specifically LAS and LAZ formats.
 
-Libraries used: 
+Main libraries used in this project: 
 
     1. laspy
     
