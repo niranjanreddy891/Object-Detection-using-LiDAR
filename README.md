@@ -8,7 +8,7 @@ Main libraries used in this project:
     
     2. Keras
     
-    3. tensorflow
+    3. pytorch
     
     4. numpy
     
